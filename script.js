@@ -154,14 +154,14 @@ const _slideLima = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", `Gua ${a[0]} pada hari ${timestring} dengan ini mengucapkan, ~ `, "<b>Selamat Ulang Tahun</b>", " ", `Kepada ${a[1]}, semoga kamu panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari gua`, , " ", "Wassalamualakaikum Wr. Wb", " ", "- "+a[0]],
+  strings: ["Assalamualaikum Wr. Wb", " ", `Gua ${a[0]} pada hari ${timestring} dengan ini mengucapkan, ~ `, "<b>Selamat Ulang Tahun</b>", " ", `Kepada ${a[1]}, semoga lu panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari gua`, , " ", "Wassalamualakaikum Wr. Wb", " ", "- "+a[0]],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Aloo Pinko!!", "Happy Birthday ya..", " ", "Anjass udah bertambah tua aja, semoga di umur yang sekarang lu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maap ye gua gabisa kasih surprise yang greget. Cuma ini yang bisa gua kasih ke lu, hopefully u like it :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan lu bisa tercapai, Aamiin."],
+  strings: ["Aloo Pinko!!", "Happy Birthday ya..", " ", "Anjass udah bertambah tua aja, semoga di umur yang sekarang lu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maap ye gua gabisa BELI KUE 200JT AJIG. Cuma ini yang bisa gua kasih ke lu, hopefully u like it :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan lu bisa tercapai, Aamiin."],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
